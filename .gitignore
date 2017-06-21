@@ -1,5 +1,4 @@
 node_modules/
-_assets/
 
 *.log
 .DS_Store
